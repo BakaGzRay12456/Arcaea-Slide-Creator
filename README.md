@@ -18,7 +18,7 @@ Arcaea-Slide-Creator 是一个用于生成类似 Arcaea 中 Slide（滑键）效
 ## 使用方法
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourname/Arcaea-Slide-Creator.git
+   git clone https://github.com/BakaGzRay12456/Arcaea-Slide-Creator.git
 
    
 2. 运行main.py
